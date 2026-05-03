@@ -1,3 +1,14 @@
-# Troubleshooting
+# Troubleshooting de Red
 
-Resolución de problemas comunes en red.
+## Incidente 1: Sin conectividad a Internet
+
+### 🔴 Problema
+El equipo no tiene acceso a internet.
+
+---
+
+### 🔍 Diagnóstico
+
+1. Verificar IP:
+```bash
+ip addr show
